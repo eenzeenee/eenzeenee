@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - interested in NLP
-- especially, Knowledge Graph & Multimodal Leaning based on Natural Language
+- especially, Knowledge Graph & Multimodal Learning based on Natural Language
 
 
 ---
