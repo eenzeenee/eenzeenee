@@ -23,7 +23,7 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
-### � MY git
+### 🐱 MY git
 
 ![eenzeenee's github stats](https://github-readme-stats.vercel.app/api?username=eenzeenee&show_icons=true)
 
