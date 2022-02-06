@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- interested in NLP
+- interested in ML, NLP
 - especially, Knowledge Graph & Multimodal Learning based on Natural Language
 
 
