@@ -34,4 +34,4 @@
 
 ---
 
-> 🏃‍♀️ Easy come, easy go.
+> 🏃‍♀️ Steadily.
