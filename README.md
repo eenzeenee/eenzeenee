@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- interested in ML, NLP
-- especially, Knowledge Graph & Multimodal Learning based on Natural Language
+- interested in Deep Learning(DL), Natural Language Processing(NLP)
+- especially, Multimodal Learning based on Natural Language & Knowledge Graph
 
 
 
